@@ -3,7 +3,6 @@ description: A carousel slider widget, support infinite scroll and custom child 
 homepage: https://github.com/serenader2014/flutter_carousel_slider
 repository: https://github.com/serenader2014/flutter_carousel_slider
 version: 4.2.2
-
 environment:
   sdk: '>=2.12.0 <4.0.0'
 
@@ -12,5 +11,6 @@ dependencies:
     sdk: flutter
 
 dev_dependencies:
+  flutter_lints: ^2.0.2
   flutter_test:
     sdk: flutter
